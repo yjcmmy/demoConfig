@@ -14,5 +14,5 @@ spring:
         register: true
         enabled: true
         instance-id: 1
-server:
-  port: 6061
+aaa:
+  bbb: "bbbb"
