@@ -7,12 +7,6 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
   application:
     name: zk-server
-  cloud:
-    zookeeper:
-      connect-string: localhost:2181
-      discovery:
-        register: true
-        enabled: true
-        instance-id: 1
+ 
 aaa:
   bbb: "bbbb"
