@@ -9,4 +9,4 @@ spring:
     name: zk-server
  
 aaa:
-  bbb: "bbbb"
+  bbb: "bbbbccc"
