@@ -2,4 +2,4 @@ spring:
   application:
     name: zk-client
 server:
-  port: 6002
+  port: 6003
